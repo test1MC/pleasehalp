@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="CHM"
+      Type="HTML Help"
+      Build="true"
+      Publish="true"
+      LastBuilt="2019-09-04T14:12:40.3499367-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="DITA"
+      Type="DITA"
+      Build="true"
+      Publish="true"
+      LastBuilt="2019-09-04T14:12:45.4464727-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Eclipse"
+      Type="Eclipse Help"
+      Build="true"
+      Publish="true"
+      LastBuilt="2019-09-04T14:12:53.7264467-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="EPUB"
+      Type="EPUB"
+      Build="true"
+      Publish="true"
+      LastBuilt="2019-09-04T14:12:59.8244861-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2019-09-04T14:13:03.8804782-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2019-09-04T14:13:08.5449648-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Webhelp"
+      Type="WebHelp"
+      Build="true"
+      Publish="true"
+      LastBuilt="2019-09-04T14:13:14.8337099-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebhelpPlus"
+      Type="WebHelp Plus"
+      Build="true"
+      Publish="true"
+      LastBuilt="2019-09-04T14:13:21.1606659-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Word"
+      Type="Word"
+      Build="true"
+      Publish="true"
+      LastBuilt="2019-09-04T14:13:36.2520000-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="XHTML"
+      Type="Clean XHTML"
+      Build="true"
+      Publish="true"
+      LastBuilt="2019-09-04T14:13:39.4174440-07:00" />
+  </Targets>
+</CatapultBatchTarget>
